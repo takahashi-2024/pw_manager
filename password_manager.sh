@@ -48,7 +48,6 @@ while true; do
 
 	else
 		echo "入力が間違えています。Add Password/Get Password/Exit から入力してください。"
-		exit
 
 	fi
 
